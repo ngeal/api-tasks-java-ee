@@ -1,2 +1,2 @@
 # api-tasks-java-ee
-Repository contenant les codes API
+Repository contenant l'application Java
